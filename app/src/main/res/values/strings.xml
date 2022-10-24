@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Projek Awal</string>
+    <string name="detail_prefix">Daftar Mata Kuliah</string>
+    <string name="projekawal1">PEMROGRAMAN BERBASIS MOBILE</string>
+    <string name="projekawal2">PROYEK PENGEMBANGAN APLIKASI WEB</string>
+    <string name="projekawal3">TEKNOLOGI CLOUD</string>
+    <string name="projekawal4">INFRASTRUKTUR BIG DATA</string>
+    <string name="projekawal5">DATA MINING</string>
+    <string name="projekawal6">MANAJEMEN PROYEK</string>
+    <string name="projekawal7">TEKNOLOGI WEB</string>
+    <string name="projekawal8">PENDIDIKAN BAHASA INDONESIA</string>
+    <string name="projekawal9">BAHASA INGGRIS 3</string>
+    <string name="projekawal10">PRAKTIKUM PEMROGRAMAN BERBASIS MOBILE</string>
+    <string name="projekawal11">PRAKTIKUM INFRASTRUKTUR BIG DATA</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+
+</resources>
